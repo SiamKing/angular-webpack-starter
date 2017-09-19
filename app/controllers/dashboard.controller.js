@@ -8,5 +8,3 @@ function DashboardController(gh) {
         _this.github = status;
     });
 }
-
-angular.module('dashboard').controller('dashboardController', DashboardController);

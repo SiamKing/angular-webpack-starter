@@ -9,5 +9,3 @@ function YepNopeDirective() {
     }
   }
 }
-
-angular.module('dashboard').directive('yepNope', YepNopeDirective);
